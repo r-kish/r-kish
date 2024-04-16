@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello! 👋 I'm Richard, and here's what I'm about! 
+
+
+\bAbout me:\b
+
+ok
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
