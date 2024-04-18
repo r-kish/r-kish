@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Richard, and here's what I'm about! 
 
 
-\bAbout me:\b
+About me:
 
 ok
 
