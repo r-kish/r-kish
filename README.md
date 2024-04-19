@@ -10,7 +10,7 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
 ![Richard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact)
 ### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev)
 - Languages: R, Python, SQL, Java, HTML5
-- Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks
+- Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks <align = right, ![Richard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact)>
 - Visualization: RStudio, Tableau
 - Other: Excel, Motorola 68K
 
