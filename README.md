@@ -13,6 +13,7 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
 
 ## 🌐 Connect
 [<img width = 25, height = 25, src = https://camo.githubusercontent.com/6eeeae9698286e45eda5d2973026a896fd42fa7f4271bf31aa74e9557e82181a/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667>](https://www.linkedin.com/in/richard-kish/) : [My LinkedIn](https://www.linkedin.com/in/richard-kish/)
+[<img width = 25, height = 25, src = https://lh3.googleusercontent.com/93W26s5MnRWhJHvHY8E9LVbc_XtmItCgp44jqACqxrQGQ5YARUSAqbxJ6OtxHh94zmnP2d-PV7n0o63Odf6rBgc=w1280>](lordville.net) : [Lordville Historical Society](lordville.net)
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
