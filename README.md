@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Richard, and here's what I'm about! 
+# Hello! 👋 I'm Richard 👨🏻‍💻, check out what I've been working on! 📊📈
 
 ## Project Porfolio
 Please check out my portfolio [here!](https://github.com/r-kish/Portfolio)
