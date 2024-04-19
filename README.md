@@ -7,6 +7,7 @@ Please check out my portfolio [here!](https://github.com/r-kish/Portfolio)
 - New York City Louis Stokes Alliance for Minority Participation Award - Grove Scholars Award - 
 
 ## Tools
+[![Tools](https://skillicons.dev/icons?i=r.python.mysql.java.c.excel.jupyter)](https://skillicons.dev)
 - Languages: R, Python, SQL, Java, basic C++
 - Data Tools: Microsoft SQL Server, MySQL
 - Visualization: RStudio, Tableau, Excel
