@@ -3,9 +3,6 @@
 ## Project Porfolio
 Please check out my portfolio [here!](https://github.com/r-kish/Portfolio)
 
-## Awards
-- New York City Louis Stokes Alliance for Minority Participation Award - Grove Scholars Award - 
-
 ## Tools
 ### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev)
 - Languages: R, Python, SQL, Java, HTML5
@@ -13,7 +10,8 @@ Please check out my portfolio [here!](https://github.com/r-kish/Portfolio)
 - Visualization: RStudio, Tableau, Excel
 - Other: Motorola 68K
 
-## 
+## Connect
+[![All Tools](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : [LinkedIn](https://www.linkedin.com/in/richard-kish/)
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
