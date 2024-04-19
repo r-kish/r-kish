@@ -1,9 +1,17 @@
 ### Hello! 👋 I'm Richard, and here's what I'm about! 
 
+## Project Porfolio
+Please check out my portfolio [here!](https://github.com/r-kish/Portfolio)
 
-About me:
-
-ok
+## Tools
+- Languages: R, Python, SQL, Java, basic C++
+- Data Tools: Microsoft SQL Server, MySQL
+- Visualization: RStudio, Tableau, Excel
+- IDEs:
+- - [R]: RStudio, R Notebooks
+  - [Python]: Anaconda (Spyder), Jupyter Notebooks
+  - [Java]: IntelliJ IDEA, jGRASP
+- Other: Motorola 68K, 
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
