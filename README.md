@@ -4,6 +4,7 @@
 Please check out my portfolio [here!](https://github.com/r-kish/Portfolio)
 
 ## Tools
+![Richard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact)
 ### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev)
 - Languages: R, Python, SQL, Java, HTML5
 - Data Tools: Microsoft SQL Server, MySQL
@@ -27,5 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Richard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact)
