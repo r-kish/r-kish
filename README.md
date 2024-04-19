@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Richard 👨🏻‍💻!
 
-## 🙋🏻‍♂️ About me
+### 🙋🏻‍♂️ About me
 [insert bio here]
 
-## 📚 Project Porfolio
+### 📚 Project Porfolio
 Welcome to my data analysis portfolio, you may enter [here](https://github.com/r-kish/Portfolio).
 
-## 💻 Tools
+### 💻 Tools
 ![Richard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact)
 ### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev)
 - Languages: R, Python, SQL, Java, HTML5
