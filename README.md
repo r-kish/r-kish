@@ -10,8 +10,8 @@ Please check out my portfolio [here!](https://github.com/r-kish/Portfolio)
 - Languages: R, Python, SQL, Java, basic C++
 - Data Tools: Microsoft SQL Server, MySQL
 - Visualization: RStudio, Tableau, Excel
-- IDEs: <img align="right" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact)">
-- - [R]: RStudio, R Notebooks
+- IDEs:
+  - [R]: RStudio, R Notebooks
   - [Python]: Anaconda (Spyder), Jupyter Notebooks
   - [Java]: IntelliJ IDEA, jGRASP
 - Other: Motorola 68K,
