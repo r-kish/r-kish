@@ -12,14 +12,13 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
 </a>
 
 - Languages: R, Python, SQL, Java, HTML5
+  - Packages: [R]: tidyverse, d.. [Python]: matplotlib.. [Java]: Util, JavaFX, Server/Client
 
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks
   
 - Visualization: RStudio, Tableau
   
 - Other: Excel, Motorola 68K
-
-### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev) 
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
