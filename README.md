@@ -7,10 +7,8 @@
 Welcome to my data analysis portfolio, you may enter [here](https://github.com/r-kish/Portfolio).
 
 ### 💻 Tools
-![Richard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact)
-### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev) 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact" />
 </a>
 
 - Languages: R, Python, SQL, Java, HTML5
@@ -20,6 +18,8 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
 - Visualization: RStudio, Tableau
   
 - Other: Excel, Motorola 68K
+
+### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev) 
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
