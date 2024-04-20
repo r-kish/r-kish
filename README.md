@@ -6,6 +6,7 @@ Prior to studying computer science, I was studying Civil Engineering at the City
 ### 📚 Project Porfolio
 Welcome to my data analysis portfolio, please take a look [here](https://github.com/r-kish/Portfolio)!
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact" />
 </a>
