@@ -8,7 +8,12 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
 
 ### 💻 Tools
 ![Richard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact)
-### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev)
+### [![All Tools](https://skillicons.dev/icons?i=r,python,mysql,java,html)](https://skillicons.dev) <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 - Languages: R, Python, SQL, Java, HTML5
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks
 - Visualization: RStudio, Tableau
