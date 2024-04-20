@@ -12,6 +12,7 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact" />
 </a>
+
 - Languages: R, Python, SQL, Java, HTML5
 
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks
