@@ -13,8 +13,11 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact" />
 </a>
 - Languages: R, Python, SQL, Java, HTML5
+
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks
+  
 - Visualization: RStudio, Tableau
+  
 - Other: Excel, Motorola 68K
 
 <!--
