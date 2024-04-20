@@ -1,10 +1,10 @@
-![Banner](https://github.com/r-kish/r-kish/blob/main/Banner.png)
+![Banner](https://github.com/r-kish/r-kish/blob/main/Banner1.png)
 
 ### 🙋🏻‍♂️ About me
-[insert bio here]
+Prior to studying computer science, I was studying Civil Engineering at the City College of New York where I gained a lot of experience with data analysis tools, such as R, to explore and solve civil engineering problems involving fluid dynamics, hazard mitigation, and mechanics of deformable bodies. For three years, I was part of a research team in collaboration with NYU, Rutgers, and the National Science Foundation to conduct sentiment analysis on MTA customers... [add more]
 
 ### 📚 Project Porfolio
-Welcome to my data analysis portfolio, you may enter [here](https://github.com/r-kish/Portfolio).
+Welcome to my data analysis portfolio, please take a look [here](https://github.com/r-kish/Portfolio)!
 
 ### 💻 Tools
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -12,13 +12,13 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
 </a>
 
 - Languages: R, Python, SQL, Java, HTML5
-  - Packages: [R]: tidyverse (Full)  [Python]: pandas, matplotlib, seaborn
+  - Packages: [R]: Full tidyverse  [Python]: Pandas, Matplotlib, Seaborn, SciPy
 
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks
   
-- Visualization: RStudio, Tableau
+- Visualization: RStudio, Tableau, Excel
   
-- Other: Excel, Motorola 68K
+- Other: MATLAB, Motorola 68K
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
