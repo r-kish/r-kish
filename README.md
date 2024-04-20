@@ -20,6 +20,8 @@ Welcome to my data analysis portfolio, please take a look [here](https://github.
   
 - Visualization: RStudio, Tableau, Excel
 
+- Skills: Statistical analysis, sentiment analysis, ETL, data cleaning
+
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
