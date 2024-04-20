@@ -7,14 +7,14 @@ Prior to studying computer science, I was studying Civil Engineering at the City
 Welcome to my data analysis portfolio, please take a look [here](https://github.com/r-kish/Portfolio)!
 
 
-### 💻 Tools
+### 💻 Tools, Packages, Skills
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact" />
 </a>
 
 - Languages: R, Python, SQL, Java, HTML5
   
-  - Packages: [R]: Full tidyverse  [Python]: Pandas, Matplotlib, Seaborn, SciPy
+  - Packages: [R]: Full tidyverse  [Python]: Pandas, Matplotlib, Seaborn
 
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks, MATLAB
   
