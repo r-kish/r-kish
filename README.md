@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Richard 👨🏻‍💻!
 
+![Banner](https://www.canva.com/design/DAGC4znz64k/BgDvewiVoX9TmMkonceUXA/view)
+
 ### 🙋🏻‍♂️ About me
 [insert bio here]
 
