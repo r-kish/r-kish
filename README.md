@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Richard 👨🏻‍💻!
-
-![Banner](https://www.canva.com/design/DAGC4znz64k/BgDvewiVoX9TmMkonceUXA/view)
+![Banner](https://github.com/r-kish/r-kish/blob/main/Banner.png)
 
 ### 🙋🏻‍♂️ About me
 [insert bio here]
