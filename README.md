@@ -6,19 +6,16 @@ Prior to studying computer science, I was studying Civil Engineering at the City
 ### 📚 Project Porfolio
 Welcome to my data analysis portfolio, please take a look [here](https://github.com/r-kish/Portfolio)!
 
-### 💻 Tools
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact" />
-</a>
+</a>### 💻 Tools
 
 - Languages: R, Python, SQL, Java, HTML5
   - Packages: [R]: Full tidyverse  [Python]: Pandas, Matplotlib, Seaborn, SciPy
 
-- Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks
+- Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks, MATLAB
   
 - Visualization: RStudio, Tableau, Excel
-  
-- Other: MATLAB, Motorola 68K
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
