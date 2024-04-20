@@ -12,7 +12,7 @@ Welcome to my data analysis portfolio, you may enter [here](https://github.com/r
 </a>
 
 - Languages: R, Python, SQL, Java, HTML5
-  - Packages: [R]: tidyverse, d.. [Python]: matplotlib.. [Java]: Util, JavaFX, Server/Client
+  - Packages: [R]: tidyverse (Full)  [Python]: pandas, matplotlib, seaborn
 
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks
   
