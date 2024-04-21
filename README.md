@@ -15,7 +15,7 @@ Welcome to my data analysis portfolio, you can find info on my projects [here](h
   - Packages: [R]: Full tidyverse  [Python]: Pandas, Matplotlib, Seaborn
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks, MATLAB
 - Visualization: RStudio, Tableau, Excel
-- Skills: Statistical analysis, sentiment analysis, ETL, data cleaning
+- Skills: Data analysis/cleaning/visualization, ETL, Networking
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
