@@ -4,7 +4,7 @@
 Prior to studying computer science, I was studying Civil Engineering at the City College of New York where I gained a lot of experience with data analysis tools, such as R, to explore and solve civil engineering problems involving fluid dynamics, hazard mitigation, and mechanics of deformable bodies. For three years, I was part of a research team in collaboration with NYU, Rutgers, and the National Science Foundation to conduct sentiment analysis on MTA customers... [add more]
 
 ### 📚 Project Porfolio
-Welcome to my data analysis portfolio, please take a look [here](https://github.com/r-kish/Portfolio)!
+Welcome to my data analysis portfolio, you can find info on my projects [here](https://github.com/r-kish/Portfolio)!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-kish&layout=compact" />
