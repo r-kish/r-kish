@@ -14,8 +14,8 @@ Welcome to my data analysis portfolio, you can find info on my projects [here](h
 - Languages: R, Python, SQL, Java, HTML5
   - Packages: [R]: Full tidyverse  [Python]: Pandas, Matplotlib, Seaborn
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks, MATLAB
-- Visualization: RStudio, Tableau, Microsoft Poewr BI, Excel
-- Skills: Data analysis/cleaning/visualization, ETL, Networking
+- Visualization: RStudio, Tableau, Microsoft Power BI, Excel
+- Skills: Data analysis/cleaning/visualization, ETL, Java Server/Client
 
 <!--
 **r-kish/r-kish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
