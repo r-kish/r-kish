@@ -14,7 +14,7 @@ Welcome to my data analysis portfolio, you can find info on my projects [here](h
 - Languages: R, Python, SQL, Java, HTML5
   - Packages: [R]: Full tidyverse  [Python]: Pandas, Matplotlib, Seaborn
 - Data Tools: Microsoft SQL Server, MySQL, Jupyter Notebooks, MATLAB
-- Visualization: RStudio, Tableau, Excel
+- Visualization: RStudio, Tableau, Microsoft Poewr BI, Excel
 - Skills: Data analysis/cleaning/visualization, ETL, Networking
 
 <!--
