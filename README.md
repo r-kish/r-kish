@@ -1,4 +1,4 @@
-![Banner](https://github.com/r-kish/r-kish/blob/main/Banner1.png)
+![Banner](https://github.com/r-kish/r-kish/blob/main/Banner2.png)
 
 ### 🙋🏻‍♂️ About me
 Prior to studying computer science, I was studying Civil Engineering at the City College of New York where I gained a lot of experience with data analysis tools, such as R, to explore and solve civil engineering problems involving fluid dynamics, hazard mitigation, and mechanics of deformable bodies. For three years, I was part of a research team funded by the National Science Foundation in collaboration with NYU, and Rutgers where I conducted sentiment analysis on MTA customers and statistical analysis on public transit performance of NYC metropolitan transit agencies. This experience made me very passionate about data analysis, and led me to pursue it as a career. Currently, I am a business intelligence analyst for 2 eCommerce businesses that I co-founded with my wife, and I am a full-time HR data analyst for a vocational school.
